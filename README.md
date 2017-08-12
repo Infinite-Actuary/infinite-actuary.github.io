@@ -10,6 +10,6 @@ As a mild introvert and someone with a desire for structure, I began to loath [A
 
 So, with my wifes full and loving support, I applied to the Actuarial Science program at UNL and here were are! I thought it would be nice to document my experience for the posterity of those who are interested in the program or what it takes to be an Actuary in general.
 
-Of course, if I could just pass all of the [SOA exams](https://www.soa.org/education/exam-req/) on my own I wouldn't need this program at all. But I find education to be valuable, not to mention the connections formed and wisdom gained during the process.
+Of course, if I could just pass all of the [SoA exams](https://www.soa.org/education/exam-req/) on my own I wouldn't need this program at all. But I find education to be valuable, not to mention the connections formed and wisdom gained during the process.
 
 P.s. If you are reading this, know that this blog is very low on the list of my priorities. As coursework ramps up, I fully expect my blogging frequency to fizzle out.
