@@ -31,7 +31,7 @@ $$\mathcal{B}_5=\{\emptyset,\{1\},\{2\},\{3\},\{1,2\},\{1,3\},\{2,3\},S\}=\mathc
 
 So when $$n=3$$, there are 5 sigma algebras total. I believe in general, the answer is related to [Bell numbers](https://en.wikipedia.org/wiki/Bell_number):
 
-$$B_n=\sum_{k=0}^{k=n} {n\brace k}$$, where $${n\brace k}$$ are the [Sterling numbers of the second kind](https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind).
+$$B_n=\sum_{k=0}^{k=n} {n\brace k}$$, where $${n\brace k}$$ are the [Stirling numbers of the second kind](https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind).
 
 To help substantiate the claim, we find the third bell number:
 
